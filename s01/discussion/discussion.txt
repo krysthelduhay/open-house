@@ -1,2 +1,6 @@
 hello world
 welcome to zuitt free coding workshop
+Topics in this FCB:
+- Git
+- HTML
+- CSS
